@@ -53,7 +53,8 @@
 }
 .dinero {
     font-family: Pantalla de sombrero rojo,sans-serif;
-    color: hsl(224, 23%, 55%)
+    color: hsl(224, 23%, 55%);
+    margin-bottom: 30px;
 }
 .reto { 
     font-family: Pantalla de sombrero rojo,sans-serif;
@@ -85,7 +86,7 @@
     background-color: hsl(245, 75%, 52%);  
     border: transparent;
     border-radius: 5px;
-    width: 290px;
+    width: 300px;
     height: 35px; 
     margin:5px;
     display: flex;  
